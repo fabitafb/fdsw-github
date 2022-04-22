@@ -35,5 +35,10 @@ body {
   .navbar-brand{
     width: 100px;
   }
+  #Hero-Section {
+    padding: 0%;
+    }
+}
+@media (min-width: 768px) {
 
 }
